@@ -1,0 +1,99 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl UNCLES
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl CHASSIS
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.7
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl GLASSGRE
+Ka  0.0 0.0 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  10.0
+illum 2
+#
+newmtl GLASSRED
+Ka  0.0 0.0 0.0
+Kd  1.0 0.1 0.1
+Ks  1.0 0.8 0.8
+d  0.8
+Ns  10.0
+illum 2
+#
+newmtl Material__2
+Ka  0.0 0.0 0.0
+Kd  0.4 0.3 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl WHELLS
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.7
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl MESHES
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  8.0
+illum 2
+#
+newmtl NUM8
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl NUM10
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl NUM9
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl NUM6
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl TRACKS
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.7
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  3.0
+illum 2
+#
+# EOF
